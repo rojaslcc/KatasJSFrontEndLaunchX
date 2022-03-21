@@ -16,7 +16,7 @@ npm run serve
 ```
 
 ## Publicación temporal del sitio
-Se opto por montar la aplicación en un servidor gratutio. Se puede acceder en [este link](https://rojaslcc-vacunas.netlify.app/).
+Se opto por montar la aplicación en un servidor gratutio. Se puede acceder en [este link](https://rojaslcc-pokedex.netlify.app/).
 
 ## Observaciones generales
 Se elaboró el proyecto cumpliendo con los requisitos minimos de las Katas de CSS de LaunchX, se realizó como un proyecto de VUEJS.
